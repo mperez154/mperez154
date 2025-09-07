@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!%20I'm%20Marco&type=waving&color=gradient&height=100"/>
-</p>
+<h1>Hellow world! I'm Marco</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/marco-perez-888a6325/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-</p>
+![Static Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarco-perez-888a6325%2F)
+![Static Badge](https://img.shields.io/badge/email-blue?style=for-the-badge&link=mailto%3Amperez154%40gmail.com)
+![Static Badge](https://img.shields.io/badge/github-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmperez154)
+
 
 <h2>😄 About me</h2>
 
@@ -27,37 +24,90 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
+    "Full Stack Developer",
     "Solutions Architect",
     "Team Lead"
   ]
-🌱 currently_learning: ["Data Science & Machine Learning in Python"]
+currently_learning:
+  [ "Data Science & Machine Learning in Python" ]
+tech_stack:
+  [
+    languages: 
+        [
+            "C#/.Net", 
+            "Java/Spring Boot", 
+            "Python", 
+            "Angular"
+        ],
+    security_related: 
+        [
+            "OWASP Protections", 
+            "PCI Compliance", 
+            "Zero Trust Implementation"
+        ],
+    ci_cd:
+        [ "Jenkins", "Azure CI/CD" ],
+    ide:
+        [
+            "vs code",
+            "visual studio",
+            "pycharm", 
+            "jupyter_notebooks"
+        ],
+    app_monitoring:
+        [
+            "new_relic",
+            "grafana",
+            "azure_app_insights",
+            "aws_cloud_watch"
+        ],
+    app_quilty_and_scanning:
+        [
+            "resharper",
+            "sonarqube",
+            "prisma_twistlock"
+        ],
+    source_control:
+        [
+            "git",
+            "github",
+            "azure-git",
+            "svn"
+        ],
+    databases:
+        [ "microsoft_sql_server", "oracle_db" ],
+    data_analysis:
+        [ "numpy", "matplotlib" ],
+    server_cloud_containerization:
+        [
+            azure:
+            [
+               "app_services",
+               "azure ad",
+               "azure functions"
+            ],
+            aws:
+            [
+                "s3",
+                "lamda",
+                "ec2",
+                "eks"
+            ],
+            other:
+            [
+                "iis",
+                "rancher",
+                "docker"
+            ]
+        ],
+    data_streaming:
+        [ "kafka"],
+    project_management:
+        [
+            "azure_dev_ops",
+            "jira",
+            "scrum",
+            "waterfall"
+        ]
+  ]
 ```
-
-<h2>🚀 These are some of the tools and tech I know</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-</p>
-
-<p align="center"><img  src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"/></p>
-
-<!--
-
-Here are some ideas to get you started:
-
-
--->
