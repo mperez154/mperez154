@@ -4,6 +4,11 @@
 <a href="mailto:mperez154@gmail.com">![Static Badge](https://img.shields.io/badge/email-blue?style=for-the-badge)</a>
 <a href="https://github.com/mperez154" target="_blank">![Static Badge](https://img.shields.io/badge/github-blue?style=for-the-badge)</a>
 
+
+<a href="https://www.linkedin.com/in/marco-perez-888a6325/" target="_blank"><img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge"></a>
+<a href="mailto:mperez154@gmail.com"><img src="https://img.shields.io/badge/email-blue?style=for-the-badge"></a>
+<a href="https://github.com/mperez154" target="_blank"><img src="https://img.shields.io/badge/github-blue?style=for-the-badge"></a>
+
 <h2>😄 About me</h2>
 
 ```yaml
