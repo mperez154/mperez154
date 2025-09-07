@@ -1,9 +1,8 @@
 <h1>Hellow world! I'm Marco</h1>
 
-![Static Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarco-perez-888a6325%2F)
-![Static Badge](https://img.shields.io/badge/email-blue?style=for-the-badge&link=mailto%3Amperez154%40gmail.com)
-![Static Badge](https://img.shields.io/badge/github-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmperez154)
-
+<a href="https://www.linkedin.com/in/marco-perez-888a6325/" target=_blank>![Static Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge)</a>
+<a href="mailto:mperez154@gmail.com">![Static Badge](https://img.shields.io/badge/email-blue?style=for-the-badge)</a>
+<a href="https://github.com/mperez154">![Static Badge](https://img.shields.io/badge/github-blue?style=for-the-badge)</a>
 
 <h2>😄 About me</h2>
 
