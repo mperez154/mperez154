@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!%20I'm%20Marco&type=waving&color=gradient&height=100"/>
 </p>
-
-<h1 align="center">You can chat with me here! 💬</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marco-perez-888a6325/">
@@ -10,7 +8,7 @@
 </a>
 </p>
 
-<h2>😄 Here's a little about me</h2>
+<h2>😄 About me</h2>
 
 ```yaml
 name: Marco Perez
